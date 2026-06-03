@@ -22,6 +22,7 @@ def inicializar_memoria_noja() -> tuple:
         30061: 0, # Frecuencia (Hz)
         30068: 0, # Factor de Potencia
         30075: 0,  # Contador de aperturas
+        30076: 0,  # Contador de Operaciones Totales
         30082: 8000 # Umbral de disparo por sobrecorriente (A)
     }
 
